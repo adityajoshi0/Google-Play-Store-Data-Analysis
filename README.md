@@ -46,10 +46,10 @@ We utilized Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn to p
 The Google Play Store sees the addition of thousands of new applications daily, created by developers worldwide striving to make their apps successful. Given the intense global competition, it is crucial for developers to understand whether their strategies align with user preferences and market trends. While most Play Store apps are free, the revenue mechanisms—such as in-app purchases, advertisements, and subscriptions—are often ambiguous and not easily measurable. Therefore, the success of an app is usually judged by factors like the number of installations and user ratings rather than direct revenue generation.
 The objective of this project is to uncover patterns and insights that help developers better understand user demands and optimize their apps for popularity and success. Specifically, we explored relationships between various attributes, such as app pricing models (free vs. paid), user reviews, and app ratings, to provide actionable insights for developers.
 
-Problem Statement
+Problem Statement :
 The goal of this project is to explore and analyze data to identify the key factors that drive app engagement and success.
 The analysis is based on two datasets: one containing fundamental information about apps (googleplaystore.csv) and another with user reviews (googleplaystore_user_reviews.csv) for those apps. By thoroughly examining and evaluating these datasets, the objective is to pinpoint the critical characteristics and trends that influence user engagement and contribute to an app's overall success.
 
-Business Objective
+Business Objective :
 The objective is to analyze user preferences and behaviors related to apps based on various attributes such as category, genre, number of installations, app size, and type (free or paid). These insights will assist developers in making informed decisions and tailoring their apps to align with user demands, ultimately enhancing app success and engagement.
 
